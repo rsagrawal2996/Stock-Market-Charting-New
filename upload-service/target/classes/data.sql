@@ -1,0 +1,4 @@
+insert into stock_price (company_code, date, price_per_share, stock_exchange, time, id) values ('50012', '2020-09-07', 100.0, 'BSE', '10:46:50', 1001);
+insert into stock_price (company_code, date, price_per_share, stock_exchange, time, id) values ('50012', '2020-09-07', 100.3, 'BSE', '10:47:50', 1002);
+insert into stock_price (company_code, date, price_per_share, stock_exchange, time, id) values ('50012', '2020-09-07', 100.6, 'BSE', '10:48:50', 1003);
+insert into stock_price (company_code, date, price_per_share, stock_exchange, time, id) values ('50012', '2020-09-07', 100.9, 'BSE', '10:49:50', 1004);
